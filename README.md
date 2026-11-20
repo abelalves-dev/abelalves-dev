@@ -18,17 +18,35 @@ Assim como em uma boa partida de futebol americano (NFL) — esporte que acompan
 ### 🛠️ Stack Tecnológica
 
 **Linguagens & Frameworks**
-* **Backend:** Python (`FastAPI`), Node.js (`TypeScript`), Java (`Spring Boot` - básico)
-* **Frontend & Mobile:** React, React Native (básico)
-* **APIs & Arquitetura:** REST, GraphQL, Design Patterns
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" alt="FastAPI">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" alt="Node.js">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" alt="TypeScript">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java">
+<img src="https://img.shields.io/badge/Spring_Boot_%28b%C3%A1sico%29-6DB33F?style=for-the-badge" alt="Spring Boot (básico)">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" alt="React">
+<img src="https://img.shields.io/badge/React_Native_%28b%C3%A1sico%29-20232A?style=for-the-badge" alt="React Native (básico)">
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge" alt="GraphQL">
+<img src="https://img.shields.io/badge/Design_Patterns-6A5ACD?style=for-the-badge" alt="Design Patterns">
 
 **Dados & ORMs**
-* **Bancos de Dados:** PostgreSQL, MongoDB
-* **ORMs:** SQLAlchemy, Prisma ORM, TypeORM, Hibernate (básico)
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" alt="MongoDB">
+<img src="https://img.shields.io/badge/SQLAlchemy-DA3434?style=for-the-badge" alt="SQLAlchemy">
+<img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge" alt="Prisma ORM">
+<img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge" alt="TypeORM">
+<img src="https://img.shields.io/badge/Hibernate_%28b%C3%A1sico%29-59666C?style=for-the-badge" alt="Hibernate (básico)">
 
 **AI-Assisted Dev & Ferramentas**
-* **IA na Engenharia:** Codex (ChatGPT), Claude, Gemini
-* **Versionamento:** Git, GitHub
+<br>
+<img src="https://img.shields.io/badge/Codex_(ChatGPT)-412991?style=for-the-badge" alt="Codex (ChatGPT)">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge" alt="Gemini">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub">
 
 ---
 
