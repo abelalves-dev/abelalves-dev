@@ -1,4 +1,4 @@
-# Olá, eu sou o Abel Alves 👋
+# Olá, eu sou Abel Alves 👋
 
 Desenvolvedor de Software **Full Stack** natural do interior da Bahia e formado em Análise e Desenvolvimento de Sistemas pelo **IFBA**. Atuo na construção de sistemas escaláveis, APIs de alta performance e produtos digitais, unindo arquitetura sólida e fluxos de engenharia potencializados por Inteligência Artificial.
 
